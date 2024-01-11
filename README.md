@@ -4,7 +4,6 @@
 
 
 ### Glad to see you here!  
-I am a network security practitioner. At present, I am a sophomore. I like penetration testing and code audit. I hope I can communicate with you more.  
   
 
 <br/>  
