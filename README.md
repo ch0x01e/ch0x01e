@@ -35,3 +35,4 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ch0x01e&theme=xcode" /> </div>
