@@ -5,7 +5,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I am a security researcher at a company specializing in supply chain security.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 My blog address is http://ch0x01.github.io
+- 📝 My blog address is http://ch0x01e.github.io
 - 💻 I use daily: **.php**, **.java**, **.py**,  **.sql**
 - 🧑‍💻 I'm learning Java security and working on RASP and IAST
 
